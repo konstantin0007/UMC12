@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">UmcVer 1.2</string>
+
+    ///////////// promo text /////////////
+    <string name="PromoL1">Записывайтесь на прием в любое отделение</string>
+    <string name="PromoS1">Мы запишем на прием, анализы или обследование, поможем получить больничный и медсправки</string>
+    <string name="PromoL2">Безопасно храните данные и историю ваших последних посещений</string>
+    <string name="PromoS2">Заключения врачей, результаты	анализов и обследований, назначенные курсы лекарств - все в одном месте</string>
+    <string name="PromoL3">Не пропустите запись к врачу или приём лекарств</string>
+    <string name="PromoS3">Напомним о приёме и сообщим об обновлении медицинских данных, для этого нужно ваше разрешение</string>
+
+    ///////////// Vhod text /////////////
+    <string name="VhodL1">Войдите или зарегистрируйтесь</string>
+    <string name="VhodL2">Введите пароль</string>
+    <string name="VhodPS">Телефон</string>
+    <string name="VhodES">Почта</string>
+    <string name="VhodBEnter">ВОЙТИ</string>
+    <string name="VhodBReg">РЕГИСТРАЦИЯ</string>
+    <string name="VhodBT1">Войти по почте</string>
+    <string name="VhodBT2">Забыли пароль</string>
+    <string name="VhodBT3">Войти по номеру телефона</string>
+    <string name="VhodPassT">Пароль</string>
+    <string name="VhodNext">ДАЛЕЕ</string>
+
+</resources>

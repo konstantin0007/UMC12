@@ -111,7 +111,8 @@ class RegistrVhod : AppCompatActivity() {
                 if (mailUser != "") {
                     VhodETPhone.setText(mailUser)
                 }
-                PhoneMail = true
+                PhoneMail = false
+                //1234567890
             }
             }
 
